@@ -16,4 +16,4 @@ You may also see any lint errors in the console.
 
 ### Online Business Card
 
-<img src="./src/images/demo.png">
+<img src="demo.png">
